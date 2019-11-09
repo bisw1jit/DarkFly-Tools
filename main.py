@@ -9,7 +9,7 @@
     YouTube             : Reaper Gamer
     Github              : /HackProX
     Termux Tested on    : Samsung galaxy J5
-    Linux Tested on     : Termux
+    Linux Tested on     : Kali Linux
 
     ------------
     DarkFly tools is a open source, free, and automatic tools.
