@@ -11,7 +11,7 @@ How to install This project.
 #cd DarkFly
 #chmod +x install.py
 #python3 install.py install
-#DarkFly.
+#DarkFly
 ```
 
 * **install on Termux android**
