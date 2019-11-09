@@ -21,6 +21,6 @@ $pkg install git python -y
 $git clone https://github.com/HackProX/DarkFly-Tools
 $cd DarkFly-Tools
 $chmod +x install.py
-$python install.py
+$python main.py
 $DarkFly
 ```
