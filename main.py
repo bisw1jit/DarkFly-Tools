@@ -4,10 +4,10 @@
 
     Developer/Author    : Biswajit (Reaper)
     Supported platform  : all Linux distro and termux(android)
-    Company             : ReaperSystem
+    Company             : H1ckProSystem
     Email               : biswajit91237@gmail.com
     YouTube             : Reaper Gamer
-    Github              : /HackProX
+    Github              : /H1ckPro
     Termux Tested on    : Samsung galaxy J5
     Linux Tested on     : Kali Linux
 
