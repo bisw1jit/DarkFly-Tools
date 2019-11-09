@@ -39,7 +39,7 @@ class Install:
         system("mv ../DarkFly %s && chmod +x %s/%s && chmod 777 -R %s"%(TERMUX,TERMUX,DARKFLYEXEC,TERMUX+"/DarkFly"))
         if not self.environmentExists(TERMUX+DARKFLYEXEC) or not self.environmentExists(TERMUX+"DarkFly"):
             sys.exit("Install failed.")
-        sys.exit("[ ✓ ] Install Success, run: \"DarkFly.\"")
+        sys.exit("[ ✓ ] Install Success, run: \"DarkFly\"")
         exect.close()
     
     def install(self):
