@@ -1,0 +1,16 @@
+
+ DarkFly tools
+ ------------
+ 
+ Developer/Author    : Biswajit (Reaper)
+ Supported platform  : all Linux distro and termux(android)
+ Company             : ReaperSystem
+ Email               : biswajit91237@gmail.com
+ YouTube             : Reaper Gamer
+ Github              : /HackProX
+ Termux Tested on    : Samsung galaxy J5
+ Linux Tested on     : Termux
+ 
+ ------------
+ DarkFly tools is a open source and automatic tools.
+
