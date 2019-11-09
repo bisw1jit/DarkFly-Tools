@@ -19,7 +19,7 @@ How to install This project.
 ```
 $pkg install git python -y
 $git clone https://github.com/HackProX/DarkFly-Tools
-$cd DarkFly-2019.1
+$cd DarkFly
 $chmod +x install.py
 $python install.py install
 $DarkFly
