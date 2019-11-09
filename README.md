@@ -7,7 +7,7 @@ How to install This project.
 
 ```
 #apt-get install git
-#git clone https://github.com/HackProX/DarkFly-tools
+#git clone https://github.com/HackProX/DarkFly-Tools
 #cd DarkFly
 #chmod +x install.py
 #python3 install.py install
@@ -18,7 +18,7 @@ How to install This project.
 
 ```
 $pkg install git python -y
-$git clone https://github.com/HackProX/DarkFly-tools
+$git clone https://github.com/HackProX/DarkFly-Tools
 $cd DarkFly-2019.1
 $chmod +x install.py
 $python install.py install
