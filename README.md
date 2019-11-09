@@ -10,7 +10,7 @@ How to install This project.
 #git clone https://github.com/HackProX/DarkFly-Tools
 #cd DarkFly-Tools
 #chmod +x install.py
-#python3 install.py install
+#python3 install.py
 #DarkFly
 ```
 
@@ -21,6 +21,6 @@ $pkg install git python -y
 $git clone https://github.com/HackProX/DarkFly-Tools
 $cd DarkFly-Tools
 $chmod +x install.py
-$python install.py install
+$python install.py
 $DarkFly
 ```
