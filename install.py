@@ -28,7 +28,7 @@ class Install:
         # check if install is success
         if not self.environmentExists(LINUX+DARKFLYEXEC) or not self.environmentExists(LINUX+"DarkFly"):
             sys.exit("Install failed.")
-        sys.exit("[ ✓ ] Install Success. run: \"DarkFly.\"")
+        sys.exit("[ ✓ ] Install Success. run: \"DarkFly\"")
         execd.close()
 
     def installTermux(self):
